@@ -7,6 +7,8 @@ public class TankAssets : MonoBehaviour
     public GameObject Tanknum1;
     public GameObject Tanknum2;
     public GameObject Tanknum3;
+    public GameObject TTA3;
+
     void Start()
     {
         
